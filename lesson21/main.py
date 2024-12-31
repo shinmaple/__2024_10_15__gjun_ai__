@@ -19,4 +19,4 @@ def index(question:str=""):
 
 @app.route('/hello')
 def hello():
-    return 'Hello, World'
+    return 'Hello, shinpin'
